@@ -10,7 +10,7 @@
   
 <b>• TestOUT: Certified PC Pro (2018)
 
-• FreeCodeCame: Certified Responsive Web Design (2024)
+• FreeCodeCamp: Certified Responsive Web Design (2024)
 
 • CourseCareer: Information Technology (2025; <i>in progress</i>)
 </b>
