@@ -18,6 +18,8 @@
 <h2> 🤳 My social:</h2>
 
 
+<a href="url">https://www.linkedin.com/in/norman-trott-16b0b9352/</a>
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
